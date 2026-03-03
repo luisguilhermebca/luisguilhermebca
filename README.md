@@ -8,7 +8,7 @@ I’m deeply fascinated by learning new technologies, designing automations, and
 
 
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,7 +28,7 @@ I’m deeply fascinated by learning new technologies, designing automations, and
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ---
 
-### English Level
+## English Level
 
 <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="35" align="center"/> <strong>Advanced Proficiency</strong>
 
