@@ -28,7 +28,7 @@ I’m deeply fascinated by learning new technologies, designing automations, and
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ---
 
-### English Level (Advanced)
+### 🇺🇸 English Level (Advanced)
 
 ---
 
